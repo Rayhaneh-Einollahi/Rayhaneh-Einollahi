@@ -12,7 +12,7 @@ Here you'll find some of my projects, experiments, and learning journeys.
 </td>
 <td>
 
-<img src="assets/top-right.gif" alt="Top Right GIF" width="150"/>
+<img src="cat escape.gif" alt="Top Right GIF" width="150"/>
 
 </td>
 </tr>
