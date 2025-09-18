@@ -1,12 +1,23 @@
 
-# Hi there, I'm Rayhaneh 👋
+## Hi there, I'm Rayhaneh 👋
 
-<div style="float: right; margin-left: 20px;">
-  <img src="cat escape.gif" alt="Top Right GIF" width="150"/>
-</div>
+
+<table>
+<tr>
+<td>
 
 Welcome to my GitHub profile! I'm a Computer Engineering student at University of Tehran.
-Here you'll find some of my projects, experiments, and learning journeys.  
+Here you'll find some of my projects, experiments, and learning journeys. 
+
+</td>
+<td>
+
+<img src="assets/top-right.gif" alt="Top Right GIF" width="150"/>
+
+</td>
+</tr>
+</table>
+
 
 ## 🔭 Current Work
 - [Project 1](#) - Short description
