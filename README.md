@@ -6,20 +6,18 @@ Welcome to my GitHub profile! I'm a Computer Engineering student at University o
 Here you'll find some of my projects, experiments, and learning journeys.  
 
 
-## 🔭 Current Work
-- [Project 1](#) - Short description
-- [Project 2](#) - Short description
-- [Project 3](#) - Short description
+🔬 **I’m currently working on:** A compiler backend for *SAYAC embedded system*, focusing on intermediate representation (IR) design, instruction selection, and optimization passes.
 
-## 🌱 Currently Learning
-- [Technology / Language 1](#)
-- [Technology / Language 2](#)
-- [Technology / Language 3](#)
+📚 **I’m currently learning:** Advanced topics in compiler construction, static program analysis.
 
-## 📫 How to reach me
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [linkedin.com/in/yourprofile](#)
-- Twitter: [@yourhandle](#)
+🤔 **I’m interested in:** Algorithms, Graph Theory and Compiler Design.
+
+💡 **I’m looking to collaborate on:** Projects that involve complex algorithm design, language processing, or applying formal methods to real-world problems.
+
+
+----------------------------------
+### 🛠 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,js,html,css,py,r,arduino,linux,git,github)](https://skillicons.dev)
 
 <p align="center">
   <img src="White Cat Peeping.gif" alt="Bottom Center GIF" width="300"/>
