@@ -1,12 +1,15 @@
 ## Hi there, I'm Rayhaneh 👋
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
-  Welcome to my GitHub profile! I'm a **Computer Engineering student** at University of Tehran.  
-  Here you'll find some of my projects, experiments, and learning journeys.  
-
-  <img src="cat escape.gif" alt="cute orange" width="200" />
+<div>
+Welcome to my GitHub profile! I'm a Computer Engineering student at University of Tehran.  
+Here you'll find some of my projects, experiments, and learning journeys.  
 </div>
+
+<img src="cat escape.gif" alt="Top Right GIF" width="200"/>
+</div>
+
 
 ## 🔭 Current Work
 - [Project 1](#) - Short description
