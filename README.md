@@ -17,7 +17,12 @@ Here you'll find some of my projects, experiments, and learning journeys.
 
 ----------------------------------
 ### 🛠 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,js,html,css,py,r,arduino,linux,git,github)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,js,html,css,py,r,arduino,linux,git,github" width="200"/>
+  </a>
+</p>
+
 
 
 </br>
