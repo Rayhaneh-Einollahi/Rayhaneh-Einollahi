@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a Computer Engineering student at University o
 Here you'll find some of my projects, experiments, and learning journeys.  
 
 
-🔬 **I’m currently working on:** A compiler backend for *SAYAC embedded system*, focusing on intermediate representation (IR) design, instruction selection, and optimization passes.
+▣ **I’m currently working on:** A compiler backend for *SAYAC embedded system*, focusing on intermediate representation (IR) design, instruction selection, and optimization passes.
 
 ▣ **I’m currently learning:** Advanced topics in compiler construction, static program analysis.
 
