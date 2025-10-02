@@ -12,6 +12,8 @@ Here you'll find some of my projects, experiments, and learning journeys.
 
 🤔 **I’m interested in:** Algorithms, Graph Theory and Compiler Design.
 
+`What if we dared to dream bigger than our destiny?🎈
+
 💡 **I’m looking to collaborate on:** Projects that involve complex algorithm design, language processing, or applying formal methods to real-world problems.
 
 
