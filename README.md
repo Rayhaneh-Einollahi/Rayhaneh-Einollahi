@@ -1,4 +1,4 @@
-## Hi there, I'm Rayhaneh 👋
+## Hi there, I'm Rayhaneh (⁠ʘ⁠ᴗ⁠ʘ⁠✿⁠)
 
 <img src="cat escape.gif" alt="Top Right GIF" width="300" align="right"/>
 <br><br>
@@ -8,11 +8,11 @@ Here you'll find some of my projects, experiments, and learning journeys.
 
 🔬 **I’m currently working on:** A compiler backend for *SAYAC embedded system*, focusing on intermediate representation (IR) design, instruction selection, and optimization passes.
 
-📚 **I’m currently learning:** Advanced topics in compiler construction, static program analysis.
+▣ **I’m currently learning:** Advanced topics in compiler construction, static program analysis.
 
-🤔 **I’m interested in:** Algorithms, Graph Theory and Compiler Design.
+▣ **I’m interested in:** Algorithms, Graph Theory and Compiler Design.
 
-💡 **I’m looking to collaborate on:** Projects that involve complex algorithm design, language processing, or applying formal methods to real-world problems.
+▣ **I’m looking to collaborate on:** Projects that involve complex algorithm design, language processing, or applying formal methods to real-world problems.
 
 
 ----------------------------------
