@@ -19,10 +19,14 @@ Here you'll find some of my projects, experiments, and learning journeys.
 ### 🛠 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,js,html,css,py,r,arduino,linux,git,github)](https://skillicons.dev)
 
+
+</br>
+<p align="center">
+> _What if we dared to dream bigger than our destiny?_
+</p>
+
 <p align="center">
   <img src="White Cat Peeping.gif" alt="Bottom Center GIF" width="300"/>
 </p>
 
-</br>
 
-> _What if we dared to dream bigger than our destiny?_
