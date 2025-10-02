@@ -22,7 +22,7 @@ Here you'll find some of my projects, experiments, and learning journeys.
 
 </br>
 <p align="center">
-> _What if we dared to dream bigger than our destiny?_
+  >  *What if we dared to dream bigger than our destiny?*🎈
 </p>
 
 <p align="center">
